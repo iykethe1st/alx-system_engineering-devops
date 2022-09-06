@@ -18,3 +18,7 @@ Task 8: Write a script that writes into the file ls_cwd_content the result of th
 
 Task 9: script that duplicates the last line of the file iacta
 
+Task 10: script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
+
+
+
